@@ -1,7 +1,8 @@
 # My additions 
 .DS_Store 
-.Data 
+.Data/ 
 *.wav 
+*.zip
 
 
 
