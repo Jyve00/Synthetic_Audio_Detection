@@ -3,6 +3,11 @@
 .Data/ 
 *.wav 
 *.zip
+*.txt 
+*.flac
+.LA/
+*flac  
+.flac*
 
 
 
